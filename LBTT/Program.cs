@@ -6,10 +6,9 @@ namespace LBTT
     {
         static void Main(string[] args)
         {
-            double propVal;
             //Find value of the property and save
-            Console.WriteLine("What is the value of the property");
-             propVal = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("What is the value of the property?");
+             double propVal = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Your tax is: £" + Convert.ToString(CalculateTax(propVal)));
         }
 
