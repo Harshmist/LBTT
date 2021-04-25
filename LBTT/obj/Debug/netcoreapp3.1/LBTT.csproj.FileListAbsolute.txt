@@ -1,0 +1,13 @@
+C:\Users\danie\Documents\LBTT\LBTT\bin\Debug\netcoreapp3.1\LBTT.exe
+C:\Users\danie\Documents\LBTT\LBTT\bin\Debug\netcoreapp3.1\LBTT.deps.json
+C:\Users\danie\Documents\LBTT\LBTT\bin\Debug\netcoreapp3.1\LBTT.runtimeconfig.json
+C:\Users\danie\Documents\LBTT\LBTT\bin\Debug\netcoreapp3.1\LBTT.runtimeconfig.dev.json
+C:\Users\danie\Documents\LBTT\LBTT\bin\Debug\netcoreapp3.1\LBTT.dll
+C:\Users\danie\Documents\LBTT\LBTT\bin\Debug\netcoreapp3.1\LBTT.pdb
+C:\Users\danie\Documents\LBTT\LBTT\obj\Debug\netcoreapp3.1\LBTT.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\LBTT\LBTT\obj\Debug\netcoreapp3.1\LBTT.AssemblyInfo.cs
+C:\Users\danie\Documents\LBTT\LBTT\obj\Debug\netcoreapp3.1\LBTT.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\LBTT\LBTT\obj\Debug\netcoreapp3.1\LBTT.dll
+C:\Users\danie\Documents\LBTT\LBTT\obj\Debug\netcoreapp3.1\LBTT.pdb
+C:\Users\danie\Documents\LBTT\LBTT\obj\Debug\netcoreapp3.1\LBTT.genruntimeconfig.cache
+C:\Users\danie\Documents\LBTT\LBTT\obj\Debug\netcoreapp3.1\LBTT.csprojAssemblyReference.cache

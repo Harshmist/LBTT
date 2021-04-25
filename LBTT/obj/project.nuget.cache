@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ztf6nCR1GJsqNhgEaKtQX7wk/2ZL9YlhQ7sdKtGWcx+ISvSo0pP7cKVQIT22szX9lqrPj2JDjLMLnkSuSt6uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Documents\\LBTT\\LBTT\\LBTT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
